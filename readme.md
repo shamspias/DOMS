@@ -20,14 +20,10 @@ python manage.py migrate
 	Username: inzamul36 <br>
 	Password: 123456asdfgh
 
-- To Add new user go to "DOMS/urls.py" uncomment this line:
+- To Add new user login into admin(Django administration). click Users -> add and add user. 
+Comment this line:
 ```
-# url(r'^admin/', admin.site.urls),
-```
-by deleting "#". Then login into admin(Django administration). click Users -> add and add user. 
-- Again comment this line:
-```
-url(r'^admin/', admin.site.urls),
+path('admin/', admin.site.urls),
 ``` 
 to hide admin(Django administration).
 
@@ -47,4 +43,8 @@ to hide admin(Django administration).
 
 ### Contact me 
 Facebook: facebook.com/inzamul36 <br>
-Email: inzamul36@gmail.com, inzamuk36@live.com, inzamul36@yahoo.com    
+Email: inzamul36@gmail.com, inzamuk36@live.com, inzamul36@yahoo.com
+
+###
+Facebook: facebook.com/shams11442 <br>
+Email: shamsuddinpias0@gmail.com
