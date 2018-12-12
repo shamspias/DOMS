@@ -3,7 +3,7 @@
 ## About this application
 
 This application is created by MD INZAMUL HAQUE for INFORTECH Solutions. This is a simple order management system. <br>
-##### Framework: Django 1.10.1
+##### Framework: Django 2.1.0
 ##### Language : Python 3.6
 
 ## Demo
